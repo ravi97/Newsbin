@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Newsbin</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_news_intro">Just select your news preferences and we\'ll take care of the rest </string>
+    <string name="notifier_intro">Your news, your time...\n</string>
+    <string-array name="news">
+        <item>sports news</item>
+        <item>science and technology news</item>
+        <item>business and politics news</item>
+        <item>culture and recreational news</item>
+        <item>international news</item>
+    </string-array>
+</resources>
